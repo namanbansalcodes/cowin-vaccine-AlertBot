@@ -1,4 +1,4 @@
-![Cowin Website](https://www.cowin.gov.in/assets/images/largest-vaccine-banner.jpg)
+![Cowin Website](https://www.91-cdn.com/hub/wp-content/uploads/2021/04/Covid-vaccine-registration.png)
 
 **A selenium-based bot that checks the COWIN website every minute for vaccine availability in your area. When a vaccine is found, it will shout &quot;Vaccine Found!&quot; 10 times out of joy.**
 
