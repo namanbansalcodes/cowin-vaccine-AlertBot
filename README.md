@@ -1,4 +1,4 @@
-![](RackMultipart20210502-4-17ge5h7_html_8ad14ae9e7d154f9.png)
+![Cowin Website](https://www.cowin.gov.in/assets/images/largest-vaccine-banner.jpg)
 
 **A selenium-based bot that checks the COWIN website every minute for vaccine availability in your area. When a vaccine is found, it will shout &quot;Vaccine Found!&quot; 10 times out of joy.**
 
