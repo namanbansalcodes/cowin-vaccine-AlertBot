@@ -8,4 +8,4 @@ Steps to run the bot:
 4. In the editor, change the path to the webdriver. [Block 1, Line 7]
 5. Double check the path to the webdriver. [On running Block 1, COWIN website should open up in a Selenium controlled version of Chrome]
 6. Change your pincode and run the block. [Block 2, Line 5]
-7. Run the third block.
+7. Run the third block. 
