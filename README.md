@@ -5,7 +5,7 @@
 Steps to run the bot:
 
 1. Download and open the Jupyter notebook in any environment.
-2. Install Selenium python. [Run &#39;python pip install selenium&#39; in selenium]
+2. Install all modules from requirements. [pip install -r requirements.txt]
 3. Check your Chrome version and download an appropriate webdriver for it from [here](https://chromedriver.chromium.org/downloads).
 4. In the editor, change the path to the webdriver. [Block 1, Line 7]
 5. Double check the path to the webdriver. [On running Block 1, COWIN website should open up in a Selenium controlled version of Chrome]
